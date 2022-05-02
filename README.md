@@ -2,6 +2,8 @@
 - 👋 Olá, meu nome é @Milly
 - 👀 Eu estou interessada em aprender novas linguas.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
+
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
